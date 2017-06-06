@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VigoNFE.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VigoNFE_Status3_MT_NfeStatusServico2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.sefaz.mt.gov.br/nfews/v2/services/NfeStatusServico2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Status3_PR_NfeStatusServico3" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.nfe.fazenda.pr.gov.br/nfe/NFeStatusServico3</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Protocolo3_MT_NfeConsulta2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.sefaz.mt.gov.br/nfews/v2/services/NfeConsulta2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Evento3_MT_RecepcaoEvento" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.sefaz.mt.gov.br/nfews/v2/services/RecepcaoEvento</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Envia3_MT_NfeAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.sefaz.mt.gov.br/nfews/v2/services/NfeAutorizacao</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Retorno3_MT_NfeRetAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.sefaz.mt.gov.br/nfews/v2/services/NfeRetAutorizacao</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Protocolo3_PR_NfeConsulta3" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.nfe.fazenda.pr.gov.br/nfe/NFeConsulta3</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Evento3_PR_RecepcaoEvento" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.nfe2.fazenda.pr.gov.br/nfe-evento/NFeRecepcaoEvento</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Envia3_PR_NfeAutorizacao3" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.nfe.fazenda.pr.gov.br/nfe/NFeAutorizacao3</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Retorno3_PR_NfeRetAutorizacao3" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://homologacao.nfe.fazenda.pr.gov.br/nfe/NFeRetAutorizacao3</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Status2_CE_NfeStatusServico2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfeh.sefaz.ce.gov.br/nfe2/services/NfeStatusServico2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Protocolo2_CE_NfeConsulta2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfeh.sefaz.ce.gov.br/nfe2/services/NfeConsulta2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Evento2_CE_RecepcaoEvento" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfeh.sefaz.ce.gov.br/nfe2/services/RecepcaoEvento</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Envia2_CE_NfeRecepcao2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfeh.sefaz.ce.gov.br/nfe2/services/NfeRecepcao2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Retorno2_CE_NfeRetRecepcao2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfeh.sefaz.ce.gov.br/nfe2/services/NfeRetRecepcao2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Status3_PE_NfeStatusServico2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfehomolog.sefaz.pe.gov.br/nfe-service/services/NfeStatusServico2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Protocolo3_PE_NfeConsulta2" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfehomolog.sefaz.pe.gov.br/nfe-service/services/NfeConsulta2</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Evento3_PE_RecepcaoEvento" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfehomolog.sefaz.pe.gov.br/nfe-service/services/RecepcaoEvento</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Envia3_PE_NfeAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfehomolog.sefaz.pe.gov.br/nfe-service/services/NfeAutorizacao</Value>
+    </Setting>
+    <Setting Name="VigoNFE_Retorno3_PE_NfeRetAutorizacao" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://nfehomolog.sefaz.pe.gov.br/nfe-service/services/NfeRetAutorizacao</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

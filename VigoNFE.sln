@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigoNFE", "VigoNFE\VigoNFE.csproj", "{D76ABC81-F9E9-455F-ACA2-5A257169E4E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFTEST", "NFTEST\NFTEST.csproj", "{2438D900-2099-4C89-B776-D1643B63015B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76ABC81-F9E9-455F-ACA2-5A257169E4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76ABC81-F9E9-455F-ACA2-5A257169E4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76ABC81-F9E9-455F-ACA2-5A257169E4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76ABC81-F9E9-455F-ACA2-5A257169E4E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2438D900-2099-4C89-B776-D1643B63015B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2438D900-2099-4C89-B776-D1643B63015B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2438D900-2099-4C89-B776-D1643B63015B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2438D900-2099-4C89-B776-D1643B63015B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
