@@ -46,7 +46,7 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="VigoNFE">
-      <HintPath>..\VigoNFE\bin\Debug\VigoNFE.dll</HintPath>
+      <HintPath>..\VigoNFE\bin\Release\VigoNFE.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
