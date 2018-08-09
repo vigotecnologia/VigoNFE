@@ -48,6 +48,9 @@
     <Reference Include="VigoNFE">
       <HintPath>..\VigoNFE\bin\Release\VigoNFE.dll</HintPath>
     </Reference>
+    <Reference Include="VigoNFE.XmlSerializers">
+      <HintPath>..\VigoNFE\bin\Release\VigoNFE.XmlSerializers.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Form1.cs">
